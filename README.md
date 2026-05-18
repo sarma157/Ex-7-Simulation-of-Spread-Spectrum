@@ -87,8 +87,10 @@ if _name_ == "_main_":
     plt.tight_layout()
     plt.show()
 ```
+
 ## OUTPUT:
 <img width="1488" height="773" alt="image" src="https://github.com/user-attachments/assets/6e83400f-ae2f-42cd-918a-ac6bb179201a" />
+
 
 ## RESULT:
 Thus, simulated the process of Direct Sequence Spread Spectrum (DSSS) modulation using Binary Phase Shift Keying (BPSK) successfully.
